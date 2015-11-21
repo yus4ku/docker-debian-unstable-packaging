@@ -1,2 +1,3 @@
-# docker-debian-unstable-packaging
-A dockerfile to create a packaging environment for unstable
+Docker container to build debian packages on debian:unstable.
+
+Rebuilt every day at 08:00 JST.
